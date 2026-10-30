@@ -1,0 +1,30 @@
+#cabeçalho 
+{
+    background-color: #333;
+    color:white;
+    padding:9px;
+    text-align: center;
+}    
+#menu
+{
+float: left;
+width: 20%;
+height: 390px;
+background-color: #f0f0ff;    
+}
+
+#principal
+{
+    margin-left: 20%;
+    height: 350px;
+    padding: 20px;
+}
+
+#footer
+{
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    text-align: center;
+}
+
