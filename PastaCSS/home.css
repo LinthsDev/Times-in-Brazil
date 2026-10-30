@@ -1,3 +1,5 @@
+
+
 #cabeçalho 
 {
     background-color: #333;
@@ -7,24 +9,51 @@
 }    
 #menu
 {
+margin-top: auto;
 float: left;
 width: 20%;
-height: 390px;
-background-color: #f0f0ff;    
+
+
+
+
+
+
 }
 
 #principal
 {
     margin-left: 20%;
-    height: 350px;
+    flex: 1;
+    height: auto;
     padding: 20px;
+    border-left: 1px solid #333;
+    box-sizing: border-box;
+    
 }
 
 #footer
 {
+    margin-top: auto;
     background-color: #333;
     color: white;
     padding: 1px;
     text-align: center;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h3, h4 {
+    font-family:georgia, serif;
+    font-weight: bold ;
+}
+
+#tabela
+{
+    font-size: 30px; font-family:Arial, Helvetica, sans-serif ;
+    
+
+}
